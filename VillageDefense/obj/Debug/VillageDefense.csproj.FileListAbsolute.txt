@@ -1,0 +1,11 @@
+C:\Users\Nick\OneDrive\Desktop\gm\1\CityDefense\bin\Debug\CityDefense.exe.config
+C:\Users\Nick\OneDrive\Desktop\gm\1\CityDefense\bin\Debug\CityDefense.exe
+C:\Users\Nick\OneDrive\Desktop\gm\1\CityDefense\bin\Debug\CityDefense.pdb
+C:\Users\Nick\OneDrive\Desktop\gm\1\CityDefense\obj\Debug\VillageDefense.csproj.AssemblyReference.cache
+C:\Users\Nick\OneDrive\Desktop\gm\1\CityDefense\obj\Debug\VillageDefense.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nick\OneDrive\Desktop\gm\1\CityDefense\obj\Debug\VillageDefense.MainWindow.resources
+C:\Users\Nick\OneDrive\Desktop\gm\1\CityDefense\obj\Debug\CityDefense.Properties.Resources.resources
+C:\Users\Nick\OneDrive\Desktop\gm\1\CityDefense\obj\Debug\VillageDefense.csproj.GenerateResource.cache
+C:\Users\Nick\OneDrive\Desktop\gm\1\CityDefense\obj\Debug\VillageDefense.csproj.CoreCompileInputs.cache
+C:\Users\Nick\OneDrive\Desktop\gm\1\CityDefense\obj\Debug\CityDefense.exe
+C:\Users\Nick\OneDrive\Desktop\gm\1\CityDefense\obj\Debug\CityDefense.pdb
